@@ -21,17 +21,16 @@ Module.register("random_quotes",{
 		category: 'random',		// Category to use
 		quotes: {
 			inspirational: [
-				"Your big opportunity may be right where you are now. ~ Napoleon Hill",
-				"Hope is but the dream of those who wake. ~ Matthew Prior",
-				"Men must live and create. Live to the point of tears. ~ Albert Camus",
-				"Try to be a rainbow in someone's cloud. ~ Maya Angelou",
-				"I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me. ~ Rosie O'Donnell",
-				"In fact, I wouldn't really call this a Gospel album, I call it more an inspirational album. ~ Smokey Robinson",
-				"Act like you expect to get into the end zone. ~ Christopher Morley",
-				"A compliment is something like a kiss through a veil. ~ Victor Hugo",
-				"Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind. ~ Robert Louis Stevenson",
-				"I have always believed, and I still believe, that whatever good or bad fortune may come our way we can always give it meaning and transform it into something of value. ~ Hermann Hesse",
-			],
+				"Votre grande opportunité pourrait être là où vous êtes maintenant. ~ Napoleon Hill",
+				"L'espoir n'est que le rêve de ceux qui se réveillent.~ Matthew Prior ",
+				"Les hommes doivent vivre et créer, vivre au point de pleurer. ~ Albert Camus ",
+				"Essaie d'être un arc-en-ciel dans le nuage de quelqu'un. ~ Maya Angelou",
+				"Je pense que la raison de mon succès est que je ne suis vraiment pas ambitieux, je suis inspirant en ce sens que les gens à la maison ont l'impression qu'ils peuvent vraiment m'identifier à moi. ~ Rosie O'Donnell ",
+				"En fait, je n'appellerais pas ça un album Gospel, je l'appelle plus un album inspirant. ~ Smokey Robinson ",
+				"Agissez comme si vous vous attendiez à entrer dans la zone des buts.~ Christopher Morley ",
+				"Un compliment est quelque chose comme un baiser à travers un voile. ~ Victor Hugo",
+				"Chaque coeur qui a battu fortement et avec joie a laissé derrière lui une impulsion d'espoir dans le monde, et a amélioré la tradition de l'humanité. ~ Robert Louis Stevenson",
+				"J'ai toujours cru, et je crois toujours, que quelle que soit la bonne ou la mauvaise fortune qui se présente à nous, nous pouvons toujours lui donner un sens et la transformer en quelque chose de valeur.~ Hermann Hesse ",			],
 			life: [
 				"A real man loves his wife, and places his family as the most important thing in life. Nothing has brought me more peace and content in life than simply being a good husband and father. ~ Frank Abagnale",
 				"I don't know why his lawyers didn't tell him, 'You don't have to answer any questions about your private life, Mr. President. Let them sue you. Take the heat. You don't have to answer.' ~ Chris Matthews",
@@ -45,17 +44,31 @@ Module.register("random_quotes",{
 				"Friends are as companions on a journey, who ought to aid each other to persevere in the road to a happier life. ~ Pythagoras",
 			],
 			love: [
-				"Men always want to be a woman's first love - women like to be a man's last romance. ~ Oscar Wilde",
-				"Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country. ~ Anais Nin",
-				"I'm really proud to be Filipino. Filipinos are really supportive, and I want to thank all of them. I love them! ~ Charice Pempengco",
-				"Some think love can be measured by the amount of butterflies in their tummy. Others think love can be measured in bunches of flowers, or by using the words 'for ever.' But love can only truly be measured by actions. It can be a small thing, such as peeling an orange for a person you love because you know they don't like doing it. ~ Marian Keyes",
-				"I would love to be a father. I had a great father who taught me how gratifying that is. I'm not going to deny myself that. I think I'd be good at it. Everybody wants that experience. I definitely do. ~ Mike Myers",
-				"In the end, the love you take is equal to the love you make. ~ Paul McCartney",
-				"I love argument, I love debate. I don't expect anyone just to sit there and agree with me, that's not their job. ~ Margaret Thatcher",
-				"Grief is the price we pay for love. ~ Queen Elizabeth II",
-				"We waste time looking for the perfect lover, instead of creating the perfect love. ~ Tom Robbins",
-				"True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked. ~ Erich Segal",
-			],
+				"Un grand amour rend légers tous les maux qui nous semblent trop lourds à porter seul. de George Sand "
+				"L'amour est l'aspiration sainte de la partie la plus éthérée de notre être vers l'inconnu.de George Sand"
+				"L'amour est le seul sentiment qui nous fasse chérir jusqu'aux caprices et travers de la personne aimée, le dernier effort d'une amitié sincère n'allant tout au plus qu'à nous les faire supporter.de Hyacinthe de Charencey"
+				"On n'aime par amour ni deux personnes, ni deux fois de la même façon. de Hyacinthe de Charencey"
+				"En amour, il ne faut pas toujours savoir ce qu'on dit. de Anne Barratin"
+				"L'amour a des jours de tigresse et des heures de gazelle. de Anne Barratin"
+				"L'amour, comme il fait bien corps avec la jeunesse, comme il chante bien dans sa voix, comme il badine bien avec son sourire, comme il divague bien sur ses lèvres, comme il désire avec impudeur, comme il part content et comme il revient joyeux ! de Anne Barratin"
+				"On a l'amour plus ou moins goulu ; certains amoureux rappellent l'enfant perdu jusqu'au menton dans sa tartine. de Anne Barratin"
+				"L'amour ne se prouve pas, il s'éprouve ; il ne se démontre pas, il se montre. de Antoine Claude Gabriel Jobert"
+				"L'amour véritable se reconnaît à deux signes authentiques, la constance et l'oubli de soi. de Henri-Frédéric Amiel"
+				"Les premiers transports de l'amour sont si violents et si sublimes que tout se range à leur puissance ; toutes les difficultés s'aplanissent, tous les germes de dissension se paralysent, tout marche au gré de ce sentiment qu'on appelle avec raison l'âme du monde, et dont on aurait dû faire le dieu de l'univers ; mais quand il s'éteint, toute la nudité de la vie réelle reparaît, les ornières se creusent comme des ravins, les aspérités grandissent comme des montagnes. de George Sand"
+				"L'amour est un feu dont la chaleur s'amortit faute d'aliment, et le refroidissement en est plus prompt quand la flamme a plus de surface que de profondeur, quand le corps aime plus que l'âme. de Charles de Bernard"
+				"L'amour est un roman à qui les femmes servent d'éditeur. de Jean Louis Auguste Commerson"
+				"L'amour est une émanation du ciel, c'est comme une partie de la substance divine. L'amour rend à la vie sa saveur, sa force et sa plénitude : comme un soleil, il en dissipe les nuages, comme un baume, il en adoucit les amertumes. Quand on aime, on a le ciel au-dedans de soi, nos plus lourds fardeaux deviennent légers, nos plus grandes tribulations sont pleines de charmes.de Alfred Auguste Pilavoine "
+				"L'amour est un secret entre deux cœurs, un mystère entre deux âmes.de Henri-Frédéric Amiel"
+				"L'amour est une plante de printemps qui parfume tout de son espoir, même les ruines où il s'accroche. de Gustave Flaubert"
+				"Quand on aime, on aime tout. Tout se voit en bleu quand on porte des lunettes bleues. L'amour comme le reste n'est qu'une façon de voir et de sentir. C'est un point de vue un peu plus élevé, un peu plus large ; on y découvre des perspectives infinies et des horizons sans bornes. de Gustave Flaubert"
+				"L'amour, après tout, n'est qu'une curiosité supérieure, un appétit de l'inconnu qui vous pousse dans l'orage, poitrine ouverte et tête en avant. de Gustave Flaubert"
+				"L'amour se compose d'un si grand nombre de sensations qu'il laissera toujours de nouvelles choses à dire. En général, on ne le connaît qu'à proportion de ce qu'il coûte au cœur. Cette idée qui, au premier instant, semble paradoxale, est, au fond, de la plus grande justesse. Lorsque l'amour est d'accord avec les convenances sociales, il conduit par une pente si rapide au bonheur, qu'à peine on peut le sentir tout entier ; puis la sainteté du mariage, réglant l'amour, le condamne à une sorte de quiétude qui, à force d'être douce et paisible, le berce et l'endort. de Antoine-Jean Cassé de Saint-Prosper"
+				"L'amour tient tant de place dans la vie d'une femme tendre, il absorbe tellement son temps et ses facultés, le charme idéal dont il l'environne est si puissant, et se répand tellement sur tout, que lorsqu'elle arrive à l'âge où il faut y renoncer, elle croit se réveiller après un long rêve, et apercevoir pour la première fois les peines et les misères de la vie. de Constance de Théis"
+				"L'amour ressemble à un torrent impétueux qui entraîne tout dans son cours rapide, mais il perd de sa force à mesure qu'il s'étend. L'amitié ressemble à un fleuve majestueux roulant ses eaux dans une riche plaine, et prenant sans cesse de nouveaux accroissements. de Jean-Claude Delamétherie"
+				"L'amour est un véritable état d'ivresse, c'est un sentiment impérieux qui domine tous les autres. de Jean-Claude Delamétherie"
+				"Amour ! feu dévorant qui consume l'âme, source de voluptés et de peines, fait pour le bonheur et le malheur des hommes, tu serais le souverain bien si, lorsque tu es heureux, tu pouvais subsister ! Tes charmes sont indicibles, toi seul peux remplir entièrement le cœur. Deux amants se suffisent à eux-mêmes ; le reste de l'univers n'est plus rien pour eux. de Jean-Claude Delamétherie"
+				"Le vrai chrétien est la plus belle image de Dieu sur la terre, c'est la sagesse en action. Le chrétien sait tout ce qu'il faut savoir, veut tout ce qu'il doit vouloir, et peut tout ce qu'il veut. Sa puissance intellectuelle est dans sa foi, sa puissance active dans la charité, son bonheur dans l'espérance. de Alfred Auguste Pilavoine"
+				"Ne parlez pas d'impossibilité, l'amour n'en connait point ; il franchit les montagnes, il traverse les mers, il fend les rochers. Ardent comme la flamme, fort comme le lion, doux comme la colombe, l'amour se transforme et se multiplie pour multiplier ses bienfaits. Il ne connaît point de repos, à tous les cris de détresse il accourt ; il ne connaît point d'exceptions, il est tout à tous ; en vain la haine rugit autour de lui, en vain l'orgueil déchaîne contre lui toute sa rage ; l'amour n'entend rien, ne sent rien, il ne répond qu'à la voix intérieure qui le pousse à s'immoler. Ô prodige, ô puissance de l'amour ! de Alfred Auguste Pilavoine"			],
 			motivational: [
 				"Be kind whenever possible. It is always possible. ~ Dalai Lama",
 				"You are never too old to set another goal or to dream a new dream. ~ C. S. Lewis",

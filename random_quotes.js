@@ -41,8 +41,7 @@ Module.register("random_quotes",{
 				"I believe that I was a dog in a past life. That's the only thing that would explain why I like to snack on Purina Dog Chow. ~ Dean Koontz",
 				"To be idle is a short road to death and to be diligent is a way of life; foolish people are idle, wise people are diligent. ~ Buddha",
 				"We can't plan life. All we can do is be available for it. ~ Lauryn Hill",
-				"Friends are as companions on a journey, who ought to aid each other to persevere in the road to a happier life. ~ Pythagoras",
-			],
+				"Friends are as companions on a journey, who ought to aid each other to persevere in the road to a happier life. ~ Pythagoras",],
 			love: [
 				"Un grand amour rend légers tous les maux qui nous semblent trop lourds à porter seul. de George Sand "
 				"L'amour est l'aspiration sainte de la partie la plus éthérée de notre être vers l'inconnu.de George Sand"
@@ -69,6 +68,36 @@ Module.register("random_quotes",{
 				"Amour ! feu dévorant qui consume l'âme, source de voluptés et de peines, fait pour le bonheur et le malheur des hommes, tu serais le souverain bien si, lorsque tu es heureux, tu pouvais subsister ! Tes charmes sont indicibles, toi seul peux remplir entièrement le cœur. Deux amants se suffisent à eux-mêmes ; le reste de l'univers n'est plus rien pour eux. de Jean-Claude Delamétherie"
 				"Le vrai chrétien est la plus belle image de Dieu sur la terre, c'est la sagesse en action. Le chrétien sait tout ce qu'il faut savoir, veut tout ce qu'il doit vouloir, et peut tout ce qu'il veut. Sa puissance intellectuelle est dans sa foi, sa puissance active dans la charité, son bonheur dans l'espérance. de Alfred Auguste Pilavoine"
 				"Ne parlez pas d'impossibilité, l'amour n'en connait point ; il franchit les montagnes, il traverse les mers, il fend les rochers. Ardent comme la flamme, fort comme le lion, doux comme la colombe, l'amour se transforme et se multiplie pour multiplier ses bienfaits. Il ne connaît point de repos, à tous les cris de détresse il accourt ; il ne connaît point d'exceptions, il est tout à tous ; en vain la haine rugit autour de lui, en vain l'orgueil déchaîne contre lui toute sa rage ; l'amour n'entend rien, ne sent rien, il ne répond qu'à la voix intérieure qui le pousse à s'immoler. Ô prodige, ô puissance de l'amour ! de Alfred Auguste Pilavoine"			],
+				"L'amour, c'est vivre à deux le meilleur comme le pire, c'est partager la jouissance et les pleurs. de Antoine Hamilton"
+				"L'amour est la chaleur inépuisable qui rajeunit les êtres, qui les fait fleurir avec grâce et les revêt d'espérance ; c'est l'attrait inséparable de tout signe de perfection. L'amour bien senti suppose le goût de ce qui est beau, de ce qui est honnête, sincère et généreux. de Étienne Pivert de Senancour"
+				"Comme l'ambition, l'amour est inspirateur de courage et de grands desseins. L'amour donne surtout à la femme une force de résolution, une énergie de caractère qui la pousse à des actes où s'efface la timidité de son sexe, où disparaît la faiblesse de son corps, où se décuple la puissance de son esprit. L'amour semble inoculer en elle un nouvel être ; de graves pensées l'envahissent et chassent les joies folâtres ; d'autres besoins lui créent une autre existence. de Louis-Auguste Martin"
+				"La loi de sacrifice est la première loi de l'amour, il ne vit pas d'hésitations, de réticences ni de calculs. de Louis-Auguste Martin"
+				"L'amour exige, pour durer, bien des ménagements délicats ; rien de plus frêle que cette fleur de printemps, elle n'aime que l'haleine du zéphyr et les rayons d'un soleil doux ; elle s'étiole et périt au contact d'un souffle trop brûlant, au choc de mouvements trop brusques. Mais soumise à une culture bienfaisante et modérée, elle conservera longtemps son parfum et sa fraîcheur. de Louis-Auguste Martin"
+				"L'amour à un, c'est l'amour unilatéral et anormal. L'amour à deux, c'est l'amour normal et bilatéral. L'amour à trois, c'est l'amour triangulaire et tripartite. L'amour à quatre, c'est l'amour quadrangulaire et au carré. L'amour à cinq, c'est l'amour quinquennal conforme au plan du même nom. L'amour à six, c'est l'amour hexagonal et pyramidal. L'amour à sept, c'est l'amour septennal en fonction de celle du septennat du présidentiel républicain. L'amour à huit, c'est l'amour octogonal qui se fait en faisant des huit. L'amour à neuf, c'est l'amour qui se pratique sur ou sous le pont du même adjectif numéral cardinal. L'amour à dix, c'est l'amour systématique et décadaire du système décimal. L'amour à onze, c'est l'amour fatal au bouillon de la même heure. L'amour à douze, c'est l'amour à la Louis douzième du nom ou à la Père du peuple, qui s'exerce avec une douzaine d'huîtres en bandoulière, une douzaine d'escargots en sautoir et une grosse de moules en couronne autour du ventre. de Pierre Dac"
+				"Quand le passif d'un amour dépasse son actif, c'est la faillite de cet amour ou, tout au moins, le dépôt de son bilan amoureux. de Pierre Dac"
+				"Pour un homme impulsif et spontané en amour instantané et irraisonné, jeter subitement et brusquement son dévolu sur une femme qui lui plaît beaucoup ne l'autorise pas, pour autant, à la jeter soudainement et brutalement par la fenêtre quand elle ne lui plaît plus du tout. de Pierre Dac"
+				"Quand l'amour bout à gros bouillons, c'est qu'il transpire parce qu'il a beaucoup trop chaud. de Pierre Dac"
+				"Un amour mort et réduit en cendres ne se met pas en terre, mais se disperse au vent. de Pierre Dac"
+				"L'amour est une goutte céleste que les cieux ont versée dans le calice de la vie pour en corriger l'amertume. de Louis de Montchamp"
+				"Les courtes absences animent l'amour, mais les longues le font mourir. de Louis de Montchamp"
+				"Entre l'amour au mois complet et l'amour à l'année entière, il y a l'amour à la petite semaine. de Pierre Dac"
+				"L'amour qui fait du porte-à-porte le fait ainsi et de la sorte pour faire du lit-à-lit et du couche-à-couche. de Pierre Dac"
+				"Un amour partagé n'a, paradoxalement, qu'une demi valeur d'apriorisme. de Pierre Dac"
+				"L'amour ne se mouille jamais dans les cœurs desséchés. de Pierre Dac"
+				"L'amour qui se déchaîne, c'est un fleuve en crue qui ne se contrôle plus. de Pierre Dac"
+				"Aimer, absorber tout dans la même pensée, existence future, existence passée, jouissances et pleurs ; Aimer, c'est l'union des plus intimes flammes, c'est la vie entre deux âmes ; aimer, c'est le ciel entre deux cœurs. de Édouard Turquety"
+				"Les nouvelles amours sont à leur naissance comme les jeunes oiseaux, qui n'ont besoin d'abord que de chaleur et d'être couvés ; plus tard il leur faut de la nourriture. de Jean-Paul Richter"
+				"L'amour est une pure rosée qui descend du ciel dans notre cœur, quand il plaît à Dieu. de Arsène Houssay"
+				"Les soupirs de l'amour sont la respiration du cœur ; sans amour, la vie est une nuit au milieu d'une éclipse de lune, mais lorsque cette nuit n'est plus obscurcie par l'interposition d'aucun globe terrestre, une douce lumière éclaire le monde ; les belles de nuit entrouvrent leurs calices, les rossignols font retentir des accents mélodieux, le ciel est partout. de Jean-Paul Richter"
+				"L'amour naît et se nourrit du mystère et de l'inconnu. Son but c'est l'unification de deux êtres. Les voiles levés, l'unification consommée, la curiosité satisfaite ; l'amour, si son objet est estimable, se transforme en véritable amour ; sinon, il meurt. de Auguste Guyard"
+				"Que d'aimables petits mots que la femme qu'on aime seule comprend ! que de soins imperceptibles qui échappent à tout autre !... Elle paraît, et le cœur se dilate ; elle s'éloigne, et le cœur se resserre ;... elle revient, et on distinguerait son pas entre mille autres femmes. Ses paroles peignent moins ses pensées que l'inflexion de sa voix, il suffit d'entendre prononcer son nom pour frémir doucement. de François-Rodolphe Weiss"
+				"Quand se lassera-t-on de représenter l'Amour sous les traits d'un enfant, et de l'orner d'un carquois ? Qui n'est jamais mort des coups partis de ce joujou ? L'Amour, le vrai Amour, c'est un monsieur déjà mûr, ayant de l'or et des diamants dans ses poches, et non ce bambin tout nu qu'on peint sur les plafonds. de Pierre-Jules Stahl"
+				"Être aimé n'est qu'un bonheur humain, le charme d'aimer est la volupté des anges. de Charles de Pougens"
+				"Ôter du monde les femmes et les fleurs, c'est vivre en un lieu sans beauté ni douceur. de Hypolite de Livry"
+				"Dans les affaires d'amour, de l'innocence à la faute, il n'y a qu'un baiser. de Louis de Montchamp"
+				"L'amour est le soleil qui fait éclore les fleurs de l'âme, et qui leur fait exhaler de suaves parfums. de Alphonse Karr"
+				"L'amour est comme le fruit du lotus, quand on y a goûté, tout ce qui n'est pas lui devient insipide. de Alphonse Karr"
+				"L'amour des parents pour leurs enfants, l'amour filial, le dévouement de l'amitié, l'ardeur du courage, se ressemblent dans tous les temps ; mais les relations de l'homme avec la femme varient complètement selon les mœurs, et l'on pourrait dire même qu'elles caractérisent les mœurs. de Louis-Auguste Martin"],
 			motivational: [
 				"Be kind whenever possible. It is always possible. ~ Dalai Lama",
 				"You are never too old to set another goal or to dream a new dream. ~ C. S. Lewis",
